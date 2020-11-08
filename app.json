@@ -1,0 +1,7 @@
+{
+  "name": "Django REST API",
+  "description": "SkillFactory HomeWork D9",
+  "image": "heroku/python",
+  "keywords": ["python", "django", "djangorestframework"]
+}
+
